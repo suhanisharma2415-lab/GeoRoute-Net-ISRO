@@ -1,0 +1,5 @@
+{
+  "dataset_source": "SpaceNet / DeepGlobe Roads Baseline",
+  "spatial_resolution": "Cartosat-3 0.3m Simulated Grid Layer",
+  "coordinate_reference_system": "EPSG:32643 - WGS 84 / UTM Zone 43N"
+}
