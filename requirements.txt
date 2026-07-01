@@ -1,0 +1,13 @@
+torch
+torchvision
+albumentations
+opencv-python
+rasterio
+gdal
+shapely
+osmnx
+networkx
+scikit-image
+scipy
+streamlit
+folium
